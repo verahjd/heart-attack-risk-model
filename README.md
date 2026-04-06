@@ -1,6 +1,6 @@
 # Heart Attack Risk Prediction Analysis
 
-A data science project focused on identifying and visualizing risk factors associated with heart attack occurrence using the Heart Attack Prediction Dataset.
+A data mining project focused on identifying and visualizing risk factors associated with heart attack occurrence using the Heart Attack Prediction Dataset.
 
 ## Overview
 
